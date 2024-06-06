@@ -3,8 +3,8 @@ Circuit Craze is a game for learning about series and parallel circuits. It prov
 
 🏆 Check out my profile on [www.wwdcscholars.com](https://www.wwdcscholars.com/s/95CBA613-AF0A-4D98-BA4B-FC9B6B42C17D/2024)
 
-![Screenshot 1](https://github.com/nadyatyandra/CircuitCraze/assets/84224607/c67c1167-534e-4962-90d7-8e6e98b0edc0)
+![Screenshot 1](https://github.com/nadyatyandra/CircuitCraze/assets/84224607/e1aa4f49-052d-4abe-beeb-334750dbce83)
 
-![Screenshot 2](https://github.com/nadyatyandra/CircuitCraze/assets/84224607/5cf2655f-6b2d-4ec2-bd08-96b9703ddf5a)
+![Screenshot 2](https://github.com/nadyatyandra/CircuitCraze/assets/84224607/e906b17b-682a-426a-9b50-0feedc4b8971)
 
-![Screenshot 3](https://github.com/nadyatyandra/CircuitCraze/assets/84224607/14b32419-609d-4400-8ea3-8c9449c1c728)
+![Screenshot 3](https://github.com/nadyatyandra/CircuitCraze/assets/84224607/b0d11bc0-e76f-4a42-b73b-68396e7db43a)

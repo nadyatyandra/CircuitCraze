@@ -107,8 +107,6 @@ struct TakeExamFirstView: View {
                                     MusicPlayer.shared.playSoundEffect(soundEffectFileName: "switchOn", format: "wav", vol: 5)
                                 }
                             }
-//                        }
-//                        HStack {
                             SwitchSelection(name: "D", resistor: "3", isParallel: false, isExam: true, isSelected: false) {
                                 if switch4 == true {
                                     switch4 = false
